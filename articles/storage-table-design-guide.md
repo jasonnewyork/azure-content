@@ -160,8 +160,8 @@ Table storage is relatively inexpensive, but you should include cost estimates f
 ### Comparing Azure Tables and SQL Azure  
 For a comparison between Azure SQL Database (a relational database service) and the Table service, see [Microsoft Azure Table Storage and Microsoft Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx) on MSDN.  
 
-## Guidelines for table design  
-These lists summarize some of the key guidelines you should keep in mind when you are designing your tables, and this guide will address them all in more detail later in. These guidelines are very different from the guidelines you would typically follow for relational database design.  
+## Table Design Principles
+These lists summarize some of the key principles you should keep in mind when you are designing your tables, and this guide will address them all in more detail later in. These guidelines are very different from the guidelines you would typically follow for relational database design.  
 
 Designing your Table service solution to be *read* efficient:
 
