@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="dotnet"
 	ms.topic="article"
-	ms.date="09/03/2015"
+	ms.date="02/09/2015"
 	ms.author="jahogg"/>
 
 # Managing Concurrency in Microsoft Azure Storage
